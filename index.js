@@ -37,5 +37,6 @@ function whisper(string) {
 }
 
 function logshout(string) {
-  console.log(string.toUpperCase())
+  var n = string.toUpperCase();
+  console.log(n)
 }
