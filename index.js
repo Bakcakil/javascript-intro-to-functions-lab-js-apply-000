@@ -36,7 +36,7 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-function logshout(string) {
+function logShout(string) {
   var n = string.toUpperCase();
   console.log(n)
 }
