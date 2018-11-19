@@ -28,6 +28,7 @@ function sayHiToGrandma(string) {
 }
 */
 
-function shout(string) {
-  return string.toUpperCase
+function shout(n) {
+  n = "hello";
+  return n.toUpperCase
 }
